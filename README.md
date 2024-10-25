@@ -4,3 +4,5 @@ Esse projeto teve os seguintes objetivos extraindo uma base de dados extraida do
 
 - Um gráfico com as 5 marcas de carro mais vendidas de 2010;
 - Em seguida, um gráfico com os top 3 'bodys' (tipo de carro) mais vendidos, da marca que foi a top 1 do gráfico anterior.
+
+O csv está como arquivo zip
